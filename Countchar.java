@@ -1,6 +1,6 @@
 // Count characters
 
-public class Count {
+class Count {
     public static void main(String[] args) {
         String string = "welcome to java";
         int count = 0;

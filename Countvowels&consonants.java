@@ -1,4 +1,4 @@
-cpublic class VowelsConsonants {
+class VowelsConsonants {
     public static void main(String[] args) {
         int vCount = 0, cCount = 0;
         String string = "Welcome to Java";
